@@ -1,5 +1,4 @@
-# FinSight
-
+# FinSight-FinTech- Analytics-Platform
 ## Module 1: Credit Risk Prediction
 
 
