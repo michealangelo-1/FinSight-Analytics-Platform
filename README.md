@@ -8,10 +8,11 @@
 - ✅ Module 2: Portfolio Analytics
 - ✅ Module 3: Algorithmic Trading Strategy Backtesting
 - ✅ Module 4: Fraud Detection System
+- ✅ Module 5: Financial Forecasting & Time Series Analysis
 
 ### Upcoming Modules
 
-- ⬜ Module 5: Financial Forecasting & Time Series Analysis
+
 - ⬜ Module 6: Stock Valuation Engine (DCF & Multiples)
 
 
